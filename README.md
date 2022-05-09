@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ammar-Ishfaq
 - 👀 I’m interested in App development, ML, ComputerVision, IOT.
-- 🌱 I’m currently doing app development since more than 2 years
+- 🌱 I’m currently doing app development since more than 2.5 years
 - 💞️ I’m looking to collaborate on Android and IOT.
 - 📫 You can contact me on my email: ammarishfaq25@gmail.com
 
