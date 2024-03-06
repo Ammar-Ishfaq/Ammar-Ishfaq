@@ -1,12 +1,25 @@
-👋 Hi, I'm @Ammar-Ishfaq, a tech enthusiast and developer.
+### Hi there 👋, my name is Muhammad Ammar
+#### I am a Sr. Software Engineer
+currently focusing on Android-Kotlin-Multiplatform
 
-👀 I'm passionate about App Development, Machine Learning, Computer Vision, and IoT. I believe that technology has the power to transform the world and make it a better place.
+Skills: JAVA / KOTLIN / iOS / SWIFT-UI / NODEMCU / COMPUTER VISION / NODE JS 
 
-🌱 I've been immersed in the world of app development since 2018, constantly learning and evolving. I enjoy building innovative and user-friendly applications that solve real-world problems.
+- 👯 I’m looking to collaborate on App Development, Computer Vision, and IoT. If you have an impactful project, let's connect and bring it to life! 
+- 💬 Ask me about ANDROID / COMPOSE-UI / KOTLIN-MULTIPLATFORM / iOS SWIFT-UI / COMPUTER-VISION / NODEMCU
+- 📫 How to reach me: ammarishfaq25@gmail.com 
+- 😄 Pronouns: AMMAR 
 
-🏫 I'm excited to collaborate on projects that embrace challenges and push boundaries. If you have an idea or a project that requires technical expertise, feel free to reach out. I'm always up for a good challenge!
 
-📫 You can contact me via email: ammarishfaq25@gmail.com. Let's connect, brainstorm, and bring our ideas to life!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ammar-ishfaq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ammar-ishfaq/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14190819)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ammar25.zyrosite.com)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ammar-ishfaq)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar-ishfaq&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Ammar-ishfaq)  
+
 
 
 <!---
