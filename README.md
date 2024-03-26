@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Muhammad Ammar
-#### I am a Sr. Software Engineer
+### Hi there 👋, I'm Muhammad Ammar
+#### A Sr. Software Engineer
 currently focusing on Android-Kotlin-Multiplatform
 
 Skills: JAVA / KOTLIN / iOS / SWIFT-UI / NODEMCU / COMPUTER VISION / NODE JS 
@@ -16,7 +16,9 @@ Skills: JAVA / KOTLIN / iOS / SWIFT-UI / NODEMCU / COMPUTER VISION / NODE JS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ammar-ishfaq)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar-ishfaq&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar-ishfaq&show_icons=true) 
+
+<a href="https://stackoverflow.com/users/story/14190819"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14190819&theme=light" height="250"></a>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ammar-ishfaq)  
 
