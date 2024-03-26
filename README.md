@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Muhammad Ammar
-#### A Sr. Software Engineer
+#### Sr. Software Engineer
 currently focusing on Android-Kotlin-Multiplatform
 
 Skills: JAVA / KOTLIN / iOS / SWIFT-UI / NODEMCU / COMPUTER VISION / NODE JS 
