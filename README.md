@@ -3,7 +3,7 @@
 Currently Focusing on Android-Kotlin-Multiplatform (KMP)
 
 - 👯 I’m looking to collaborate on App Development, Computer Vision, and IoT. If you have an impactful project, let's connect and bring it to life! 
-- 💬 Ask me about ANDROID KOTLIN JAVA / COMPOSE-UI / KOTLIN-MULTIPLATFORM / iOS SWIFT-UI / COMPUTER-VISION / NODEMCU / NODE JS
+- 💬 Ask me about Flutter / ANDROID KOTLIN JAVA / COMPOSE-UI / KOTLIN-MULTIPLATFORM / iOS SWIFT-UI / COMPUTER-VISION / NODEMCU / NODE JS
 - 📫 How to reach me: ammarishfaq25@gmail.com 
 
 
